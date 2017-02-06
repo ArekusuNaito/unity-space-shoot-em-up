@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-space-shoot-em-up", "unity-space-shoot-em-up.csproj", "{10993979-BAAA-5186-BA5B-E18AB8B21175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-space-shoot-em-up.Editor", "unity-space-shoot-em-up.Editor.csproj", "{E0FD169E-95A7-23DB-71C3-82D11BCFF600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10993979-BAAA-5186-BA5B-E18AB8B21175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10993979-BAAA-5186-BA5B-E18AB8B21175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10993979-BAAA-5186-BA5B-E18AB8B21175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10993979-BAAA-5186-BA5B-E18AB8B21175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FD169E-95A7-23DB-71C3-82D11BCFF600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FD169E-95A7-23DB-71C3-82D11BCFF600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FD169E-95A7-23DB-71C3-82D11BCFF600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FD169E-95A7-23DB-71C3-82D11BCFF600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
