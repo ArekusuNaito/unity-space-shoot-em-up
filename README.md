@@ -17,4 +17,4 @@ Features:
 - EnemySpawner
     - Simple wave generation
 
-![](https://trello-attachments.s3.amazonaws.com/54d96ae8cd8a263bf8dd70e9/58983028e946e5ddb03f1249/3a89e3d58e89b7644df576ad206501b0/Space_Shooter_01.gif)
+![](https://trello-attachments.s3.amazonaws.com/54d96ae8cd8a263bf8dd70e9/58983028e946e5ddb03f1249/6338eb1a9ea03cd82ab2bbe789154470/upload_6_2_2017_at_02_13_38.png)
